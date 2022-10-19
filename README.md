@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korpusovmax
-- 👀 I’m interested in neural networks and full stack development
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Django, Javascript, C++
 - 📫 Telegram https://t.me/maxcrocus
 
