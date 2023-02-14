@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korpusovmax
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Django, Javascript, C++
+- 🌱 I’m currently learning Javascript, React js
 - 📫 Telegram https://t.me/maxcrocus
 
 <!---
