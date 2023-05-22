@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korpusovmax
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in web development, neural networks
 - 🌱 I’m currently learning Javascript, vue3
 - 📫 Telegram https://t.me/maxcrocus
 
