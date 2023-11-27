@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korpusovmax
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript, vue3
+- 🌱 I’m currently learning Typescript, vue3
 - 📫 Telegram https://t.me/maxcrocus
 
 <!---
