@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @korpusovmax
 - 👀 Vue3 developer
-- 🌱 Creating nobody use stuff :)
 - 📫 Telegram https://t.me/korpusovmax
