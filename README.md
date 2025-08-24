@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @korpusovmax
-- 👀 Vue3 developer
+- 👀 Vue, Nuxt developer
 - 📫 Telegram https://t.me/korpusovmax
